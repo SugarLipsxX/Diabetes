@@ -1,6 +1,6 @@
 # Diabetes
 
-INSTALLATION
+**INSTALLATION**
 
 ```
 pip install -r requirements.txt
